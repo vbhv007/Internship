@@ -1,3 +1,4 @@
-hey
+hey, this edit is from master branch
 this is edit #1 for this file.
 this is edit #2
+this is a conflict situation
