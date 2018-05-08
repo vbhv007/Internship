@@ -2,5 +2,4 @@ hey, this edit is from master branch
 this is edit #1 for this file.
 this is edit #2
 this is the solution for the conflict
-conflict between master and feature2
-
+conflict resolved
